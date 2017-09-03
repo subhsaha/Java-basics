@@ -12,6 +12,7 @@ public class Switch_Statement {
 			break;
 		case "F":
 			System.out.println("Gender = Female");
+			break;
 		default:
 			System.out.println("Not Disclosed");
 		}
